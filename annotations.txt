@@ -1,0 +1,9 @@
+npm init -y
+npm i typescript @types/node -D
+npx tsc --init
+
+"tsconfig.json mudar para es2020";
+
+"Criar pastas src/domain e mais duas pastas dentro entities e use-cases"
+
+npm i vitest -D   "executar testes -> npx vitest run"
